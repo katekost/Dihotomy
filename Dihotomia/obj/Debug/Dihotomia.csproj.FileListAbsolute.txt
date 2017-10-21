@@ -1,0 +1,6 @@
+D:\7 семестр\Розподілені системи та ПО\Dihotomia\Dihotomia\bin\Debug\Dihotomia.exe.config
+D:\7 семестр\Розподілені системи та ПО\Dihotomia\Dihotomia\bin\Debug\Dihotomia.exe
+D:\7 семестр\Розподілені системи та ПО\Dihotomia\Dihotomia\bin\Debug\Dihotomia.pdb
+D:\7 семестр\Розподілені системи та ПО\Dihotomia\Dihotomia\obj\Debug\Dihotomia.csprojResolveAssemblyReference.cache
+D:\7 семестр\Розподілені системи та ПО\Dihotomia\Dihotomia\obj\Debug\Dihotomia.exe
+D:\7 семестр\Розподілені системи та ПО\Dihotomia\Dihotomia\obj\Debug\Dihotomia.pdb
